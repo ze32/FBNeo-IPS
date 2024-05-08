@@ -1,0 +1,508 @@
+﻿hs2j.03	  Em2byddj
+hs2j.04	  Em2byddj1
+
+[en_US]
+EASY MOVE Ｖ２
+
+Hacker:DDJ
+
+Description:
+
+───────────────────────
+
+N = NORMAL Street Fighter II: The World Warrior 
+D = DASH   Street Fighter II Champion Edition
+T = TURBO  Street Fighter II Hyper Fighting
+S = SUPER  Super Street Fighter II The New Challengers
+X = SUPERX Super Street Fighter II X: Grand Master Challenge
+
+ RYU
+───────────────────────
+◎Hadouken        →+P        【N D T S X】
+◎Red Hadouken    ←+P        【      S X】
+◎Shoryuken       ↓+P        【N D T S X】
+◎Hurricane Kick  ←+K        【N D T S X】
+◎Air Hurricane   ←+K（AIR） 【    T S X】
+☆Shinku Hadouken【LPMP】    【        X】
+
+ KEN
+───────────────────────
+◎Hadouken        →+P        【N D T S X】
+◎Shoryuken       ↓+P        【N D T S X】
+◎Hurricane Kick  ←+K        【N D T S X】
+◎Air Hurricane   ←+K（AIR） 【    T S X】
+◎Neo Axe Kick    →+K        【        X】
+◎Neo Axe Kick 2  ↑+K        【        X】
+◎Neo Axe Kick 3  ↓+K        【        X】
+☆Shoryreppa     【LPMP】    【        X】
+
+ CHUN LI
+───────────────────────
+◎Lightning Kick  K（rapidly）      【N D T S X】
+◎Kikouken                →+P       【    T S X】
+◎Spinning Bird Kick      ↓+K       【  D T    】
+◎Spinning Bird Kick      ↑+K       【N        】 
+◎Spinning Bird Kick      →+K       【      S X】
+◎AIR Spinning Bird Kick  →+K（AIR）【      S X】
+◎Yousou Kyaku            ↓+K       【        X】
+☆Super Lightning Kick    ←+K       【        X】
+
+ E.HONDA
+───────────────────────
+◎Hundred Hand Slap P（rapidly）  【N D T S X】  
+◎Sumo Head Butt      →+P         【N D T S X】 
+◎Sumo Smash          ↓+K         【    T S X】
+◎Orochi Nage         ↓+P（close）【        X】
+☆Double Sumo Headbutt←+P         【        X】
+
+ GUILE
+───────────────────────
+◎Sonic Boom       →+P  【N D T S X】
+◎Flash Kick       ↓+K  【N D T S X】
+☆Double Flash Kick←+K  【        X】
+
+ BLANKA
+───────────────────────
+◎Electricity    P（rapidly）         【N D T S X】
+◎Rolling Attack         →+P          【N D T S X】
+◎Backstep Rolling Attack→+K          【      S X】
+◎Vertical Rolling Attack↓+K          【    T S X】
+☆Ground Shaving Roll    ←+K（charge）【        X】
+
+ ZANGIEF
+───────────────────────
+◎Spinning Clothesline        PPP  【N        】  
+◎Faster Spinning Clothesline KKK  【    T S X】  
+◎Banishing            ←+P         【        X】
+◎Spinning Pile Driver ↓+p（close）【N D T S X】 
+◎Sibearian Suplex     ↓+K（close）【      S X】 
+◎Sibearian Bear Crush ↓+K         【      S X】   
+☆Final Atomic Buster  ↑+P（close）【        X】
+
+ DHALSIM
+───────────────────────
+◎Yoga Fire        →+P    【N D T S X】 
+◎Yoga Flame       ↓+P    【N D T S X】 
+◎Yoga Blast       ↓+K    【        X】
+◎Yoga Teleport ←or→+LK   【    T S X】
+☆Yoga Tempest  【LPMP】  【        X】
+
+ M.BISON
+───────────────────────
+◎Turn Punch 
+(Hold LP or LK for at l
+east 2 secs then release)       【  D T S X】
+◎Dash Punch          →+P       【  D T S X】
+◎Dash Ground Punch   ↑+P       【        X】
+◎Dash Uppercut       →+K       【  D T S X】
+◎Dash Ground Punch   ↑+K       【        X】
+◎Diving Head Butt    ↓+P       【      S X】 
+☆Dash Punch Frenzy   ←+P or K  【        X】
+               
+ BALROG
+───────────────────────
+◎Rolling Claw           →+P           【  D T S X】 
+◎Scarlet Terror         →+K           【        X】
+◎Dive Fake              ↓+P           【      S X】
+◎Flying Barcelona Attack↓+K.P         【  D T S X】
+◎Claw Thrust            ↓+K·P（close）【  D T S X】
+☆Rolling Inzuna Drop    ←+K·P（close）【        X】
+
+ SAGAT
+───────────────────────
+◎Tiger Shot (high)→+P  【  D T S X】
+◎Tiger Shot (low) →+K  【  D T S X】
+◎Tiger Uppercut   ↓+P  【  D T S X】
+◎Tiger Knee       ↓+K  【  D T S X】
+☆Tiger Genocide【LPMP】【        X】
+
+ VEGA
+───────────────────────
+◎Psycho Crusher       →+P    【  D T S X】
+◎Scissor Kick         →+K    【  D T S X】
+◎Psycho Fist          ↓+P    【      S  】
+◎Psycho Fist          ↓+P·P  【        X】
+◎Head Stomp           ↓+K    【  D T S X】
+ →Extra Hit              P    【  D T S X】
+☆Knee Press Knightmare←+K    【        X】
+
+ CAMMY
+───────────────────────
+◎Cannon Spike                                  →+K 【      S X】
+◎Axle Spin Knuckle                             ↓+K 【      S X】
+◎Spiral Arrow                                  ←+P 【      S X】
+◎Hooligan Combination                          →+P 【        X】
+ →Razor Edge Slicer   do nothing and land           【        X】
+ →Fatal Leg Twister near opponent's head     ←or→+K 【        X】
+ →Cross Scissor Pressure near opponent's body←or→+K 【        X】
+☆Spin Drive Smasher                        【LPMP】【        X】
+
+ FEI LONG
+───────────────────────
+◎Rekka Ken           →+P（3 times) 【      S X】
+◎Fire Kick           ↓+K           【      S X】
+◎Spinning Kick       ←+K           【        X】
+☆Shinku Rekka Ken【LPMP】          【        X】
+
+ DEE JAY
+───────────────────────
+◎Max Out             →+P             【      S X】
+◎Dread Kick          →+K             【      S X】
+◎Machine Gun Uppercut↓+P·P（rapidly）【      S X】
+◎Jacknife Kick       ↓+K             【        X】
+☆Double Dread Kick   ←+K             【        X】
+
+ T.HAWK
+───────────────────────
+◎Condor Dive          LP（AIR）  【      S X】
+◎Eagle Thrust        ←+P         【      S X】
+◎Storm Hammer        ↓+P（close）【      S X】
+☆Double Storm Hammer ↑+P（close）【        X】
+
+ GOUKI
+───────────────────────
+◎Gou Hadouken          →+P                      
+◎Zankuu Hadouken       →+P（AIR）
+◎Shakunetsu Hadouken   ←+P                      
+◎Gou Shoryuken         ↓+P                      
+◎Tatsumaki Zankuukyaku ←+K
+◎Tatsumaki Zankuukyaku ←+K（AIR）
+◎Ashura Senkuu    ↓ or ↑+LK       
+
+──────────────────────────────────────────────
+
+
+[zh_CN]
+终极简化Ｖ２
+
+修改者:丁丁机
+
+说明:
+
+───────────────────────
+
+N = NORMAL 《街头霸王2天下斗士》
+D = DASH   《街头霸王2四大天王》
+T = TURBO  《街头霸王2加速版》
+S = SUPER  《超级街头霸王2》
+X = SUPERX 《超级街头霸王2X》
+
+隆 RYU
+───────────────────────
+◎波动拳          →+P        【N D T S X】
+◎灼热波动拳      ←+P        【      S X】
+◎升龙拳          ↓+P        【N D T S X】
+◎龙卷旋风脚      ←+K        【N D T S X】
+◎空中龙卷旋风脚  ←+K（空中）【    T S X】
+☆真空波动拳     【轻P中P】  【        X】
+
+肯 KEN
+───────────────────────
+◎波动拳           →+P        【N D T S X】
+◎升龙拳           ↓+P        【N D T S X】
+◎龙卷旋风脚       ←+K        【N D T S X】
+◎空中龙卷旋风脚   ←+K（空中）【    T S X】
+◎镰拂蹴           →+K        【        X】
+◎铊落蹴           ↑+K        【        X】
+◎大外回蹴         ↓+K        【        X】
+☆升龙裂破        【轻P中P】  【        X】
+
+春丽 CHUN LI
+───────────────────────
+◎百裂脚         K（连打）  【N D T S X】
+◎气功拳       →+P          【    T S X】
+◎回旋鹤脚蹴   ↓+K          【  D T    】
+◎回旋鹤脚蹴   ↑+K          【N        】 
+◎回旋鹤脚蹴   →+K（空中可）【      S X】
+◎天升脚       ↓+K          【        X】
+☆千裂脚       ←+K          【        X】
+
+本田 E.HONDA
+───────────────────────
+◎百裂张手       P（连打）【N D T S X】  
+◎超级头突     →+P        【N D T S X】 
+◎超级百贯落   ↓+K        【    T S X】
+◎大银杏投     ↓+P（近敌）【        X】
+☆鬼无双       ←+P        【        X】
+
+盖尔 GUILE
+───────────────────────
+◎音速手刀    →+P       【N D T S X】
+◎脚刀        ↓+K       【N D T S X】
+☆连环脚刀    ←+K       【        X】
+
+布兰卡 BLANKA
+───────────────────────
+◎雷霆电击      P（连打）【N D T S X】
+◎回旋撞击    →+P        【N D T S X】
+◎后步转      →+K        【      S X】
+◎回旋上击    ↓+K        【    T S X】
+☆乱刀突刺    ←+K（可蓄）【        X】
+
+桑基尔夫 ZANGIEF
+───────────────────────
+◎双截旋风掌   3个P键            【N        】  
+◎双截旋风掌   3个P键（左右移动）【  D T S X】
+◎快速旋风掌   3个K键（左右移动）【    T S X】 
+◎碎金掌          ←+P            【        X】
+◎螺旋打桩        ↓+p（近敌）    【N D T S X】 
+◎原子弹爆炸      ↓+K（近敌）    【      S X】 
+◎飞行炸弹        ↓+K（距离以外）【      S X】   
+☆终极原子弹爆炸  ↑+P（近敌）    【        X】
+
+达尔锡 DHALSIM
+───────────────────────
+◎瑜伽火       →+P       【N D T S X】 
+◎瑜伽光明     ↓+P       【N D T S X】 
+◎瑜伽爆炎     ↓+K       【        X】
+◎瑜伽隐身  ←or→+轻K     【    T S X】
+☆瑜伽火山     【轻P中P】【        X】
+
+拜森 M.BISON
+───────────────────────
+◎回旋拳（轻Por轻K按住再放开）【  D T S X】
+◎前冲直拳     →+P            【  D T S X】
+◎前冲直勾拳   ↑+P            【        X】
+◎前冲勾拳     →+K            【  D T S X】
+◎前冲下勾拳   ↑+K            【        X】
+◎野牛头槌     ↓+P            【      S X】 
+☆狂牛组合拳   ←+P or K       【        X】
+               
+巴洛克 BALROG
+───────────────────────
+◎滚动水晶刺          →+P   【  D T S X】 
+◎伤疤之恨            →+K   【        X】
+◎高空杀              ↓+P   【      S X】
+◎飞翔巴塞罗那        ↓+K.P 【  D T S X】
+◎饭纲落      （近敌）↓+K·P 【  D T S X】
+☆滚动饭纲落  （近敌）←+K·P 【        X】
+
+萨卡特 SAGAT
+───────────────────────
+◎猛虎波（上段） →+P       【  D T S X】
+◎猛虎波（下段） →+K       【  D T S X】
+◎猛虎上升       ↓+P       【  D T S X】
+◎虎膝击         ↓+K       【  D T S X】
+☆猛虎暴怒       【轻P中P】【        X】
+
+维加 VEGA
+───────────────────────
+◎精神爆击    →+P    【  D T S X】
+◎双重膝压    →+K    【  D T S X】
+◎恶魔颠倒    ↓+P    【      S  】
+◎恶魔颠倒    ↓+P·P  【        X】
+◎头部挤压    ↓+K    【  D T S X】
+ →船形攻击      P    【  D T S X】
+☆膝压恶梦    ←+K    【        X】
+
+嘉米 CAMMY
+───────────────────────
+◎旋转之箭      →+K       【      S X】
+◎大炮轰击      ↓+K       【      S X】
+◎回旋拳        ←+P       【      S X】
+◎火箭结合      →+P       【        X】
+ →剃刀踢   没有输入指令   【        X】
+ →致命盘旋 近头部时←or→+K 【        X】
+ →压力穿透 近腹部时←or→+K 【        X】
+☆针刺者        【轻P中P】【        X】
+
+飞龙 FEI LONG
+───────────────────────
+◎烈火拳（可3次）→+P  【      S X】
+◎炽炎脚         ↓+K  【      S X】
+◎烈空脚         ←+K  【        X】
+☆烈火真拳  【轻P中P】【        X】
+
+迪杰 DEE JAY
+───────────────────────
+◎真空手刀            →+P   【      S X】
+◎旋转双踢            →+K   【      S X】
+◎机关炮上勾拳（连打）↓+P·P 【      S X】
+◎杰克劲刀踢          ↓+K   【        X】
+☆威慑连打            ←+K   【        X】
+
+猎鹰 T.HAWK
+───────────────────────
+◎神鹰降    （空中）     轻P 【      S X】
+◎飞斧炸弹               ←+P 【      S X】
+◎墨西哥台风（近敌）     ↓+P 【      S X】
+☆死亡风暴  （近敌）     ↑+P 【        X】
+
+豪鬼 GOUKI
+───────────────────────
+◎豪波动拳            →+P                      
+◎斩空波动拳（空中）  →+P
+◎灼热波动拳          ←+P                      
+◎豪升龙拳            ↓+P                      
+◎龙卷斩空脚（可空中）←+K
+◎阿修罗闪空     ↓ or ↑+轻K       
+
+──────────────────────────────────────────────
+
+[zh_TW]
+終極簡化Ｖ２
+
+修改者:丁丁機
+
+說明:
+
+───────────────────────
+
+N = NORMAL 《街頭霸王2天下鬥士》
+D = DASH   《街頭霸王2四大天王》
+T = TURBO  《街頭霸王2加速版》
+S = SUPER  《超級街頭霸王2》
+X = SUPERX 《超級街頭霸王2X》
+
+隆 RYU
+───────────────────────
+◎波動拳          →+P        【N D T S X】
+◎灼熱波動拳      ←+P        【      S X】
+◎升龍拳          ↓+P        【N D T S X】
+◎龍捲旋風腳      ←+K        【N D T S X】
+◎空中龍捲旋風腳  ←+K（空中）【    T S X】
+☆真空波動拳     【輕P中P】  【        X】
+
+肯 KEN
+───────────────────────
+◎波動拳           →+P        【N D T S X】
+◎升龍拳           ↓+P        【N D T S X】
+◎龍捲旋風腳       ←+K        【N D T S X】
+◎空中龍捲旋風腳   ←+K（空中）【    T S X】
+◎鐮拂蹴           →+K        【        X】
+◎鉈落蹴           ↑+K        【        X】
+◎大外回蹴         ↓+K        【        X】
+☆升龍裂破        【輕P中P】  【        X】
+
+春麗 CHUN LI
+───────────────────────
+◎百裂腳         K（連打）  【N D T S X】
+◎氣功拳       →+P          【    T S X】
+◎迴旋鶴腳蹴   ↓+K          【  D T    】
+◎迴旋鶴腳蹴   ↑+K          【N        】 
+◎迴旋鶴腳蹴   →+K（空中可）【      S X】
+◎天升腳       ↓+K          【        X】
+☆千裂腳       ←+K          【        X】
+
+本田 E.HONDA
+───────────────────────
+◎百裂張手       P（連打）【N D T S X】  
+◎超級頭突     →+P        【N D T S X】 
+◎超級百貫落   ↓+K        【    T S X】
+◎大銀杏投     ↓+P（近敵）【        X】
+☆鬼無雙       ←+P        【        X】
+
+蓋爾 GUILE
+───────────────────────
+◎音速手刀    →+P       【N D T S X】
+◎腳刀        ↓+K       【N D T S X】
+☆連環腳刀    ←+K       【        X】
+
+布蘭卡 BLANKA
+───────────────────────
+◎雷霆電擊      P（連打）【N D T S X】
+◎迴旋撞擊    →+P        【N D T S X】
+◎後步轉      →+K        【      S X】
+◎迴旋上擊    ↓+K        【    T S X】
+☆亂刀突刺    ←+K（可蓄）【        X】
+
+桑基爾夫 ZANGIEF
+───────────────────────
+◎雙截旋風掌   3個P鍵            【N        】  
+◎雙截旋風掌   3個P鍵（左右移動）【  D T S X】
+◎快速旋風掌   3個K鍵（左右移動）【    T S X】 
+◎碎金掌          ←+P            【        X】
+◎螺旋打樁        ↓+p（近敵）    【N D T S X】 
+◎原子彈爆炸      ↓+K（近敵）    【      S X】 
+◎飛行炸彈        ↓+K（距離以外）【      S X】   
+☆終極原子彈爆炸  ↑+P（近敵）    【        X】
+
+達爾錫 DHALSIM
+───────────────────────
+◎瑜伽火       →+P       【N D T S X】 
+◎瑜伽光明     ↓+P       【N D T S X】 
+◎瑜伽爆炎     ↓+K       【        X】
+◎瑜伽隱身  ←or→+輕K     【    T S X】
+☆瑜伽火山     【輕P中P】【        X】
+
+拜森 M.BISON
+───────────────────────
+◎迴旋拳（輕Por輕K按住再放開）【  D T S X】
+◎前衝直拳     →+P            【  D T S X】
+◎前衝直勾拳   ↑+P            【        X】
+◎前衝勾拳     →+K            【  D T S X】
+◎前衝下勾拳   ↑+K            【        X】
+◎野牛頭槌     ↓+P            【      S X】 
+☆狂牛組合拳   ←+P or K       【        X】
+               
+巴洛克 BALROG
+───────────────────────
+◎滾動水晶刺          →+P   【  D T S X】 
+◎傷疤之恨            →+K   【        X】
+◎高空殺              ↓+P   【      S X】
+◎飛翔巴塞羅那        ↓+K.P 【  D T S X】
+◎飯綱落      （近敵）↓+K·P 【  D T S X】
+☆滾動飯綱落  （近敵）←+K·P 【        X】
+
+薩卡特 SAGAT
+───────────────────────
+◎猛虎波（上段） →+P       【  D T S X】
+◎猛虎波（下段） →+K       【  D T S X】
+◎猛虎上升       ↓+P       【  D T S X】
+◎虎膝擊         ↓+K       【  D T S X】
+☆猛虎暴怒       【輕P中P】【        X】
+
+維加 VEGA
+───────────────────────
+◎精神爆擊    →+P    【  D T S X】
+◎雙重膝壓    →+K    【  D T S X】
+◎惡魔顛倒    ↓+P    【      S  】
+◎惡魔顛倒    ↓+P·P  【        X】
+◎頭部擠壓    ↓+K    【  D T S X】
+ →船形攻擊      P    【  D T S X】
+☆膝壓惡夢    ←+K    【        X】
+
+嘉米 CAMMY
+───────────────────────
+◎旋轉之箭      →+K       【      S X】
+◎大炮轟擊      ↓+K       【      S X】
+◎迴旋拳        ←+P       【      S X】
+◎火箭結合      →+P       【        X】
+ →剃刀踢   沒有輸入指令   【        X】
+ →致命盤旋 近頭部時←or→+K 【        X】
+ →壓力穿透 近腹部時←or→+K 【        X】
+☆針刺者        【輕P中P】【        X】
+
+飛龍 FEI LONG
+───────────────────────
+◎烈火拳（可3次）→+P  【      S X】
+◎熾炎腳         ↓+K  【      S X】
+◎烈空腳         ←+K  【        X】
+☆烈火真拳  【輕P中P】【        X】
+
+迪傑 DEE JAY
+───────────────────────
+◎真空手刀            →+P   【      S X】
+◎旋轉雙踢            →+K   【      S X】
+◎機關炮上勾拳（連打）↓+P·P 【      S X】
+◎傑克勁刀踢          ↓+K   【        X】
+☆威懾連打            ←+K   【        X】
+
+獵鷹 T.HAWK
+───────────────────────
+◎神鷹降    （空中）     輕P 【      S X】
+◎飛斧炸彈               ←+P 【      S X】
+◎墨西哥颱風（近敵）     ↓+P 【      S X】
+☆死亡風暴  （近敵）     ↑+P 【        X】
+
+豪鬼 GOUKI
+───────────────────────
+◎豪波動拳            →+P                      
+◎斬空波動拳（空中）  →+P
+◎灼熱波動拳          ←+P                      
+◎豪升龍拳            ↓+P                      
+◎龍卷斬空腳（可空中）←+K
+◎阿修羅閃空     ↓ or ↑+輕K       
+
+──────────────────────────────────────────────
+

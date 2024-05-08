@@ -1,0 +1,5 @@
+﻿#Hide Char
+3-hchar1,3-hchar2
+#Hidden Char Add
+3-hchar1>7-bcffix
+3-hchar2>7-bcffix
